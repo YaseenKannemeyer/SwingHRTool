@@ -22,27 +22,77 @@ A Java Swing GUI application that allows users to add, store, and view employee 
 
 ## Project Structure
 
+```graphql
 src/
-
 └── main/
+    └── java/
+        └── mycput/
+            └── ac/
+                └── za/
+                    └── runprac7/
+                        ├── Developer.java
+                        ├── Employee.java
+                        ├── Intern.java
+                        ├── Manager.java
+                        └── RunPrac7.java
+```
+---
 
-└── java/
+## 💻 Installation & Usage
 
-└── mycput/
+1. **Clone the repository**
 
-└── ac/
+```bash
+git clone https://github.com/YaseenKannemeyer/SwingHRTool.git
+```
+2. **Open the project in your preferred Java IDE**
+(Eclipse, IntelliJ IDEA, NetBeans, etc.)
 
-└── za/
+3. **Compile and run RunPrac7.java**
+This is the main class with the GUI entry point.
 
-└── runprac7/
+4. **Use the GUI to add employee data and see them listed dynamically**
 
-├── Developer.java
+---
 
-├── Employee.java
+## 🚀 How to Use
 
-├── Intern.java
+1. Select the role from the dropdown
 
-├── Manager.java
+2. Enter the employee's name
 
-└── RunPrac7.java
+3. Enter the employee's salary (numbers only)
+
+4. Click Add Employee to add to the list
+
+5. The table below updates with all employees added so far
+
+---
+
+## 📞 Contact
+
+If you have questions or want to collaborate, feel free to reach out!
+
+Email: yaseenkannemeyer@gmail.com
+
+GitHub: github.com/YaseenKannemeyerYaseenKannemeyer
+
+---
+
+## 📄 LICENSE
+
+This project is released into the public domain.
+
+You are free to use, modify, distribute, and incorporate this code into any project, personal or commercial, without restriction.
+
+Attribution is appreciated but not required.
+
+© 2025 Mogamat Yaseen Kannemeyer
+
+
+
+
+
+
+
 
