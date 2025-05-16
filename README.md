@@ -19,3 +19,19 @@ A Java Swing GUI application that allows users to add, store, and view employee 
 - Swing (GUI Framework)
 - AWT (Event Handling)
 - OOP Principles
+
+## Project Structure
+
+src/
+└── main/
+└── java/
+└── mycput/
+└── ac/
+└── za/
+└── runprac7/
+├── Developer.java
+├── Employee.java
+├── Intern.java
+├── Manager.java
+└── RunPrac7.java
+
